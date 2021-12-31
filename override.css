@@ -2,7 +2,9 @@
     
   select,
   textarea,
-  input {
+  input,
+  [contenteditable="true"]
+  {
     font-size: 16px;
   }
     
