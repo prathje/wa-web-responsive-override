@@ -7,5 +7,4 @@ It is far from perfect but feel free to use it (at your own risk) :)
 
 It includes a minimized [jQuery](https://jquery.com/) version.
 
-So I put WhatsApp Web to my Home screen. I am using a Safari Extension called Hyperweb to inject the JavaScript and CSS.
-You can see my custom extension config here (you should try to use a specific URL - but did not work for me sadly): https://extensions.insightbrowser.com/extend/e6f5150b57
+So I put WhatsApp Web to my Home screen. I am using a Safari Extension called Hyperweb to inject the JavaScript and CSS but I still have to manually disable/enable the desktop mode... You can see my custom extension config here (you should try to use a specific URL - but did not work for me sadly): https://extensions.insightbrowser.com/extend/e6f5150b57
