@@ -9,8 +9,8 @@
 //}
 
 // we try to get away with touch events...
-$(document).on('touch', function() {
-    $(this).click();
+$(document).on('tap', '#side div [role="row"] div', function() {
+    $(this).trigger('mousedown');
 });
 
 var changeToList = function() {
