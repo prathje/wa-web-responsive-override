@@ -1,0 +1,18 @@
+@media only screen and (max-width: 600px) {
+    
+.back-btn {
+    margin-right: 10px;   
+}
+
+.wa-hide {
+    display: none !important;
+}
+
+[data-testid="cell-frame-container"]:not(.hover) {
+    background-color: var(--background-default-default) !important;
+}
+
+div.two {
+    min-width: 50px !important;
+}
+}
