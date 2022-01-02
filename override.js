@@ -37,7 +37,7 @@ $(document).on('click', '#side div [role="row"]>div', function() {
 });
 
 var initWatchFunc = function() {
-    var $el = $('[data-icon="intro-md-beta-logo-dark"]').parents(":eq(3)");
+    var $el = $('[data-icon="intro-md-beta-logo"], [data-icon="intro-md-beta-logo-dark"], [data-icon="intro-md-beta-logo-light"]').parents(":eq(3)");
     if ($el.length > 0) {
         $el.addClass('wa-hide');
     } else {
